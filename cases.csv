@@ -1,0 +1,40 @@
+case_id,name,quantity,year,type
+1,CS:GO Weapon Case,9,2013,classic
+2,eSports 2013 Case,9,2013,esports
+3,Operation Bravo Case,15,2013,operation
+4,CS:GO Weapon Case 2,12,2013,classic
+5,eSports 2013 Winter Case,12,2013,esports
+7,Winter Offensive Weapon Case,13,2013,community
+10,CS:GO Weapon Case 3,12,2014,classic
+11,Operation Phoenix Weapon Case,13,2014,operation
+17,Huntsman Weapon Case,15,2014,community
+18,Operation Breakout Weapon Case,15,2014,operation
+19,eSports 2014 Summer Case,17,2014,esports
+29,Operation Vanguard Weapon Case,14,2014,operation
+38,Chroma Case,14,2015,community
+48,Chroma 2 Case,15,2015,community
+50,Falchion Case,17,2015,community
+80,Shadow Case,16,2015,community
+111,Revolver Case,17,2015,community
+112,Operation Wildfire Case,16,2016,operation
+141,Chroma 3 Case,17,2016,community
+144,Gamma Case,17,2016,community
+172,Gamma 2 Case,17,2016,community
+179,Glove Case,17,2016,community
+207,Spectrum Case,17,2017,community
+208,Operation Hydra Case,17,2017,operation
+220,Spectrum 2 Case,17,2017,community
+238,Clutch Case,17,2018,community
+244,Horizon Case,17,2018,community
+259,Danger Zone Case,17,2021,community
+274,Prisma Case,17,2019,community
+293,CS20 Case,17,2019,community
+277,Shattered Web Case,17,2019,operation
+303,Prisma 2 Case,17,2020,community
+307,Fracture Case,17,2020,community
+308,Operation Broken Fang Case,17,2020,operation
+315,Snakebite Case,17,2021,community
+321,Operation Riptide Case,17,2021,operation
+339,Dreams & Nightmares Case,17,2022,community
+355,Recoil Case,17,2022,community
+376,Revolution Case,17,2023,community

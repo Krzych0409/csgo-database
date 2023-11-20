@@ -1,0 +1,38 @@
+id,name,quantity,year,souvenir,type
+1,The Alpha Collection,16,2013,f,themed
+2,The Assault Collection,7,2013,f,map
+3,The Aztec Collection,6,2013,f,map
+4,The Dust Collection,9,2013,f,map
+5,The Dust 2 Collection,16,2013,t,map
+6,The Inferno Collection,6,2013,t,map
+7,The Italy Collection,15,2013,t,map
+8,The Lake collection,15,2013,t,map
+9,The Militia Collection,11,2013,f,map
+10,The Mirage collection,15,2013,t,map
+11,The Nuke Collection,9,2013,t,map
+12,The Office Collection,6,2013,f,map
+13,The Safehouse Collection,15,2013,f,map
+14,The Train Collection,15,2013,t,map
+15,The Vertigo Collection,6,2013,t,map
+16,The Baggage Collection,15,2014,f,map
+17,The Bank Collection,16,2014,f,map
+18,The Cache Collection,13,2014,t,map
+19,The Cobblestone Collection,15,2014,t,map
+20,The Overpass Collection,15,2014,t,map
+21,The Chop Shop Collection,16,2015,f,themed
+22,The Gods and Monsters,14,2015,f,themed
+23,The Rising Sun Collection,16,2015,f,themed
+24,The 2018 Inferno Collection,18,2018,t,map
+25,The 2018 Nuke collection,18,2018,t,map
+26,The Blacksite Collection,1,2018,t,map
+27,The Canals Collection,18,2019,f,map
+28,The Norse Collection,18,2019,f,themed
+29,The St. Marc Collection,17,2019,f,map
+30,The Ancient Collection,18,2020,t,map
+31,The Control Collection,19,2020,f,themed
+32,The Havoc Collection,19,2020,f,themed
+33,The 2021 Dust 2 Collection,19,2021,t,map
+34,The 2021 Mirage collection,19,2021,t,map
+35,The 2021 Train Collection,17,2021,t,map
+36,The 2021 Vertigo Collection,19,2021,t,map
+37,The Anubis Collection,19,2023,t,map
