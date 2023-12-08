@@ -1,1 +1,0 @@
-SELECT * FROM skins ORDER BY year
